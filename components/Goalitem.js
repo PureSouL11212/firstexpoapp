@@ -17,7 +17,7 @@ function GoalItem(props) {
 export default GoalItem; 
 const styles=StyleSheet.create({
  goalsitem: {
- margin: 5,
+ margin: 6,
  borderRadius: 6,
  backgroundColor: 'purple',
  //color:'white',
